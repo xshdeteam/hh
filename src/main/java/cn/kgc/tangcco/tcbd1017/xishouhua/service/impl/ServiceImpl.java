@@ -15,6 +15,10 @@ public class ServiceImpl implements Service{
 	public void haha() {
 		// TODO Auto-generated method stub
 		System.out.println("service");
+		System.out.println("serviceserviceservice");
+		System.out.println("serviceserviceservice");
+		System.out.println("serviceserviceservice");
+		System.out.println("serviceserviceservice");
 	}
 
 }
