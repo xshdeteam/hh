@@ -8,4 +8,8 @@ package cn.kgc.tangcco.tcbd1017.xishouhua.action;
 */
 public class Action {
 
+	public static void main(String[] args) {
+		System.out.println("action");
+	}
+	
 }

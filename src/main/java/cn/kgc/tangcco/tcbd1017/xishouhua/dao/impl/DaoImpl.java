@@ -14,6 +14,11 @@ public class DaoImpl implements Dao{
 	@Override
 	public void haha() {
 		System.out.println("dao");
+		System.out.println("daodaodaodao");
+		System.out.println("daodaodaodao");
+		System.out.println("daodaodaodao");
+		System.out.println("daodaodaodao");
+		System.out.println("daodaodaodao");
 		
 	}
 
