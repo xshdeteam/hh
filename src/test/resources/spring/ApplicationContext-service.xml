@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+	<bean id = "LoginService" class = "cn.kgc.tangcco.tcbd1017.xishouhau.service.impl.LoginServiceImpl"/>
+	<bean id = "DeptService" class = "cn.kgc.tangcco.tcbd1017.xishouhau.service.impl.DeptServiceImpl"/>
+	<bean id = "EmpService" class = "cn.kgc.tangcco.tcbd1017.xishouhau.service.impl.EmpServiceImpl"/>
+</beans>
