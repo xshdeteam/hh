@@ -14,7 +14,7 @@ public class ServiceImpl implements Service{
 	@Override
 	public void haha() {
 		// TODO Auto-generated method stub
-		
+		System.out.println("service");
 	}
 
 }

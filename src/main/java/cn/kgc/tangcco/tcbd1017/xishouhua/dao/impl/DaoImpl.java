@@ -13,7 +13,7 @@ public class DaoImpl implements Dao{
 
 	@Override
 	public void haha() {
-		// TODO Auto-generated method stub
+		System.out.println("dao");
 		
 	}
 
